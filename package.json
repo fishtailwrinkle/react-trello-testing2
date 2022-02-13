@@ -9,7 +9,7 @@
     "react-test-renderer": "^16.0.0"
   },
   "dependencies": {
-    "ajv": "^6.11.0",
+    "ajv": "^6.12.3",
     "react": "^16.0.0",
     "react-dom": "^16.0.0"
   },
